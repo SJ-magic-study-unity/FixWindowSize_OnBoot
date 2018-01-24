@@ -1,0 +1,13 @@
+/************************************************************
+************************************************************/
+■[Unity] PC実行時のWindowsサイズの設定の仕方＆起動時フック
+	http://h-sao.com/blog/2016/05/08/change-unity-window-size/
+	
+	contents
+		Edit/ Project setting/ Player
+		or
+		File/ Build settings -> Player setting button
+		
+		Resolution/ Default is Full Screen : off
+		Standalone Player Options/ Display Resolution Dialog = Disabled
+		
